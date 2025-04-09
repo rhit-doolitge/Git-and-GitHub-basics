@@ -1,5 +1,5 @@
 # Git-and-GitHub-basics
 
-testing changes
+This repo is an example used for testing out making branches and pull requests.
 
-testing changes
+The powerpoint used can be found in the folder powerpoints.
